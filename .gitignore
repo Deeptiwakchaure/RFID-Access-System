@@ -1,0 +1,9 @@
+*.zip
+*.ino~
+*.log
+.DS_Store
+*.bak
+*.tmp
+*.swp
+__pycache__/
+.env
